@@ -5,7 +5,7 @@ This repository contains an animated Indian Falg  created using HTML and CSS. Th
 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/r70BvbPOhnA))
 
 # Screenshot
 Here we have project screenshot :
